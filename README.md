@@ -5,7 +5,9 @@ Verifier Integer Assignment Program(VIAP) translates a program to first-order lo
 quantifiers on natural numbers following the method proposed recently by [Professor Fangzhen Lin](http://www.cs.ust.hk/~flin/). Once translated to a first-order theory, properties of the program can then be proved using induction (because of the quantifiers on natural numbers) and other methods.
 
 ### Awards & Achievements
-1. [VIAP was second in the ReachSafety-Arrays sub-category of ReachSafety category](https://sv-comp.sosy-lab.org/2018/results/results-verified/)
+1. [VIAP was second in the ReachSafety-Arrays sub-category of ReachSafety category in SV-COMP 2018](https://sv-comp.sosy-lab.org/2018/results/results-verified/)
+1. [VIAP was second in the ReachSafety-Arrays sub-category of ReachSafety category in SV-COMP 2019](https://sv-comp.sosy-lab.org/2019/results/results-verified/)
+1. [VIAP was first in the ReachSafety-Recursive sub-category of ReachSafety category in SV-COMP 2019](https://sv-comp.sosy-lab.org/2019/results/results-verified/)
 
 Many more to come..
 
@@ -16,6 +18,9 @@ Many more to come..
 1. [VIAP - automated system for verifying integer assignment programs with loops](https://github.com/VerifierIntegerAssignment/sv-comp/blob/master/viap-automated-system.pdf),Pritom Rajkhowa, Fangzhen Lin, 19th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing,SYNASC 2017, Timisoara, Romania, September 21-24, 2017
 
 1. [VIAP-Automated System for Verifying Integer Assignment Programs with Loops(Competition Contribution)](https://github.com/VerifierIntegerAssignment/sv-comp-1/blob/master/viap-automated-system.pdf), Pritom Rajkhowa, Fangzhen Lin, 7th International Competition on Software Verification (2018)(not part of TACAS proceeding)
+1. [Extending VIAP to Handle Array Programs](https://github.com/VerifierIntegerAssignment/sv-comp-1/blob/master/viap-automated-system.pdf), Pritom Rajkhowa, Fangzhen Lin, 10th Working Conference on Veriﬁed Software: Theories, Tools, and Experiments. Sept. 2018
+1. [VIAP-1.1(Competition Contribution)](https://github.com/VerifierIntegerAssignment/sv-comp-1/blob/master/viap-automated-system.pdf), Pritom Rajkhowa, Fangzhen Lin, 8th International Competition on Software Verification (2018)(part of TACAS proceeding)
+
 
 
 # See below for system requirements, installation, usage, and everything else.
