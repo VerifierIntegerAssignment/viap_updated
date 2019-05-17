@@ -6,7 +6,7 @@ quantifiers on natural numbers following the method proposed recently by [Profes
 
 ### Awards & Achievements
 1. [VIAP was second in the ReachSafety-Arrays sub-category of ReachSafety category in SV-COMP 2018](https://sv-comp.sosy-lab.org/2018/results/results-verified/)
-1. [VIAP was second in the ReachSafety-Arrays sub-category of ReachSafety category in SV-COMP 2019](https://sv-comp.sosy-lab.org/2019/results/results-verified/)
+1. [VIAP was first in the ReachSafety-Arrays sub-category of ReachSafety category in SV-COMP 2019](https://sv-comp.sosy-lab.org/2019/results/results-verified/)
 1. [VIAP was first in the ReachSafety-Recursive sub-category of ReachSafety category in SV-COMP 2019](https://sv-comp.sosy-lab.org/2019/results/results-verified/)
 
 Many more to come..
